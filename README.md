@@ -144,7 +144,7 @@ Planner → Researcher → Writer multi-agent pipeline with self-correction loop
 - **Multi-Agent Research Assistant** — `LangGraph` `AutoGen` `FAISS` — autonomous researcher/summarizer/writer agents, 70% faster research compilation
 - **Training Data Bot** — `AsyncIO` `OpenAI API` `HuggingFace` — LLM data curation pipeline, 10K+ validated samples, 90% less manual curation
 
-</details>
+</details> 
 
 ---
 
